@@ -1,4 +1,4 @@
-Hi there, I'm Sean 👋
+## Hi there, I'm Sean 👋
 
 📈 I’m currently working on Elevate's Web App (https://elevate.app) that will mirror the mobile app (https://elevate.app/iOS.html) & Imagen a data augmentation tool for Computer Vision Machine Learning Companies that need to augment their datasets with a low-cost solution.
 
