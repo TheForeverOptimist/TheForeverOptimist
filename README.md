@@ -1,8 +1,10 @@
 ## Hi there, I'm Sean 👋
 
-📈 I’m currently a Full Stack Engineer for Elevate's Mobile & Web applications (https://elevate.app/iOS.html).
+📈 I’m a Full Stack Engineer that enjoys delivering frontend experiences for Computer Vision & Generative AI solutions.
 
-🚀 I'm a fitness enthusiast with a medical degree that pivoted my career to software development so that I can make an impact globally by strapping the technology rocketship to industries that could use a makeover.
+Currently Full Stack Engineer @ Elevate's Mobile & Web applications (https://elevate.app/iOS.html).
+
+🚀 I'm a fitness enthusiast with a medical degree that pivoted my career to software engineering so that I can make an impact globally by strapping the technology rocketship to industries that could use a makeover.
 
 🕳 I love diving in rabbit holes and developing unique creative solutions. Let's connect!
 
